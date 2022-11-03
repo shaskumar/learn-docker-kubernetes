@@ -12,5 +12,5 @@
 - <ins>Create service:</ins> &nbsp;kubectl apply -f deploy/applyjava-pratice-service.yaml (to get service url - minikube service java-practice-srv - url) or.   
 - <ins>Create ingress:</ins> &nbsp;kubectl apply -f deploy/applyjava-pratice-ingress.yaml.  
 - Tunnel to access host from external source or browser: minikube tunnel.   
-- Now access locahost in your browser.   
+- Now access localhost in your browser.   
 - k8 dashboard: minikube dashboard to access k8 dashboard.    
